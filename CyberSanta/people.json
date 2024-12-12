@@ -1,0 +1,58 @@
+[
+    {
+        "id": "101112",
+        "picture": "https:\/\/i.pinimg.com\/736x\/00\/36\/61\/003661633750c742eec2ef83f3d77607--avatar-real-life.jpg",
+        "name": "John Doe",
+        "email": "john@example.com",
+        "wish": "If you want to end the war, then instead of sending guns, send books. Instead of sending tanks, send pens. Instead of sending soldiers, send teachers."
+    },
+    {
+        "id": "126265",
+        "picture": "https:\/\/i.pinimg.com\/originals\/79\/5e\/ce\/795ece881229778d2d39c3ba27f29ee3.jpg",
+        "name": "Jane Doe",
+        "email": "jane@example.com",
+        "wish": "Do your little bit of good where you are; it is those little bits of good put together that overwhelm the world."
+    },
+    {
+        "id": "426131",
+        "picture": "https:\/\/i.pinimg.com\/736x\/66\/55\/7d\/66557df0211c81bbf5301c2cb0a20de0.jpg",
+        "name": "Jenny Smith",
+        "email": "jenny@example.com",
+        "wish": "Never be in a hurry; do everything quietly and in a calm spirit. Do not lose your inner peace for anything whatsoever, even if your whole world seems upset."
+    },
+    {
+        "id": "332619",
+        "picture": "https:\/\/i.pinimg.com\/736x\/8a\/4b\/a4\/8a4ba4f57100922e09c6eaba852e4aca.jpg",
+        "name": "Jack Smith",
+        "email": "jack@example.com",
+        "wish": "Every breath we take, every step we make, can be filled with peace, joy and serenity."
+    },
+    {
+        "id": "126251",
+        "picture": "https:\/\/i.pinimg.com\/236x\/8f\/c9\/a6\/8fc9a62b96832e9633a6deed90d39d08.jpg",
+        "name": "Alice Burton",
+        "email": "alice@example.com",
+        "wish": "Don't search for anything except peace. Try to calm the mind. Everything else will come on its own."
+    },
+    {
+        "id": "254712",
+        "picture": "https:\/\/i.pinimg.com\/736x\/e8\/31\/0e\/e8310e00de0246ed97c51593139ca748.jpg",
+        "name": "Bob Burton",
+        "email": "bob@example.com",
+        "wish": "When the power of love overcomes the love of power the world will know peace."
+    },
+    {
+        "id": 463737,
+        "name": "Mike Taylor",
+        "email": "mike@example.co",
+        "picture": "https:\/\/i.pinimg.com\/736x\/aa\/a8\/6a\/aaa86ab16664bbe98ea4ced003831512.jpg",
+        "wish": "The people who are crazy enough to think they can change the world are the ones who do."
+    },
+    {
+        "id": 625972,
+        "name": "Amanda Brown",
+        "email": "amanda@example.com",
+        "picture": "https:\/\/i.pinimg.com\/736x\/8d\/4f\/e4\/8d4fe4207954ed4d4b0da21ea135c3e2.jpg",
+        "wish": "All our dreams can come true \u2014 if we have the courage to pursue them."
+    }
+]
