@@ -1,0 +1,74 @@
+[
+    {
+        "id": "87666512546",
+        "name": "PHP & MySQL - Server-side Web Development",
+        "price": 153.9,
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/315-JxoEHSL._SX342_SY445_.jpg",
+        "category": "computing",
+        "author": "J. Duckett"
+    },
+    {
+        "id": "3243544352",
+        "name": "Ancient Remedies for Modern Life : from the bestselling author of Keto Diet",
+        "price": 19.4,
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/81GgDd8XMaL._SL1500_.jpg",
+        "category": "health",
+        "author": "Dr Josh Axe"
+    },
+    {
+        "id": "365723513634",
+        "name": "On Writing : A Memoir of the Craft: Twentieth Anniversary Edition with Contributions from Joe Hill and Owen King",
+        "price": 25.91,
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/719jxWi+JwL._SL1500_.jpg",
+        "category": "biography",
+        "author": "Stephen King"
+    },
+    {
+        "id": "1255695462346467",
+        "name": "Never Finished : Unshackle Your Mind and Win the War Within",
+        "price": 31.37,
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/81uWWAHp25L._SL1500_.jpg",
+        "category": "biography",
+        "author": "David Goggins"
+    },
+    {
+        "id": "435676557",
+        "name": "The Storyteller : Tales of Life and Music",
+        "price": 14.27,
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/51MQFMd-YWL.jpg",
+        "category": "biography",
+        "author": "Dave Grohl"
+    },
+    {
+        "id": "354656123845",
+        "name": "The Art of Attack - Attacker Mindset for Security Professionals",
+        "price": 23.83,
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/41o6440qatL.jpg",
+        "category": "computing",
+        "author": "M. Reynolds"
+    },
+    {
+        "id": "78665431238",
+        "name": "Minding the Machines - Building and Leading Data Science and Analytics Teams",
+        "price": 28.42,
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/515btTm6RRL._SY445_SX342_.jpg",
+        "category": "computing",
+        "author": "J. Adamson"
+    },
+    {
+        "id": "1232354670765",
+        "name": "Code : The Hidden Language of Computer Hardware and Software",
+        "price": 28.14,
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/31lWzPUaqVL._SY445_SX342_.jpg",
+        "category": "computing",
+        "author": "Charles Petzold"
+    },
+    {
+        "id": "983245465546",
+        "name": "Fast This Way : Burn Fat, Heal Inflammation and Eat Like the High-Performing Human You Were Meant to be",
+        "price": 20.11,
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/81j-jwkyg-L._SL1500_.jpg",
+        "category": "health",
+        "author": "Dave Asprey"
+    }
+]
