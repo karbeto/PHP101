@@ -1,6 +1,7 @@
 <?php
 session_start();
 require_once __DIR__ . "/layout/header.php";
+require_once __DIR__ . "/layout/navbar.php";
 ?>
 
 <div class="flex justify-center items-center min-h-screen bg-gray-100">

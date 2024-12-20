@@ -2,8 +2,9 @@
 session_start();
 require_once __DIR__ . "/functions.php";
 require_once __DIR__ . "/layout/header.php";
+require_once __DIR__ . "/layout/navbar.php";
 
-$books = getBooks();
+$books = getFileFromJSON('books');
 ?>
 
 <div class="max-w-screen-xl mx-auto p-5 sm:p-10 md:p-16">
@@ -30,7 +31,7 @@ $books = getBooks();
                 <p class='text-gray-500 font-semibold text-sm mb-2'>Author: {$book['author']}</p>
                 <p class='text-gray-500 font-semibold  text-sm mb-4'>Price: \${$book['price']}</p>
                 <div class=''>
-                    <a href='add-to-cart.php?id={$book['id']}' class='bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded'>
+                    <a href='addToCart.php?id={$book['id']}' class='bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded'>
                         Add to Cart
                     </a>
                 </div>
