@@ -2,7 +2,7 @@
 
 Follow the steps below to set up and run the project on your local machine.
 
-## Prerequisites
+## Requirements
 
 Ensure that you have the following installed on your system:
 
